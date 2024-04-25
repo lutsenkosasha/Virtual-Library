@@ -1,0 +1,7 @@
+﻿  Functions.cpp
+C:\Users\26862\OneDrive\Рабочий стол\2kurs_2sem\C++\ЯСП\lab3\lab3\Functions.cpp(577,8): warning C4101: input: неиспользованная локальная переменная
+C:\Users\26862\OneDrive\Рабочий стол\2kurs_2sem\C++\ЯСП\lab3\lab3\Functions.cpp(596,8): warning C4101: input: неиспользованная локальная переменная
+  VirtualLibrary.cpp
+  lab3.cpp
+  Создание кода...
+  lab3.vcxproj -> C:\Users\26862\OneDrive\Рабочий стол\2kurs_2sem\C++\ЯСП\lab3\Debug\lab3.exe
